@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ENCODED_LEN","ENCODING","RAW_LEN"],"fn":["from_bytes","from_string","new","new_with_time","nil_id","read_machine_id_from_env","sort"],"mod":["b","driver","error","gocrc32","goos","gorand","gosha256","hostid"],"struct":["ID","Sorter"]};

@@ -1,0 +1,9 @@
+(function() {
+    const implementors = Object.fromEntries([["xid",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"xid/gosha256/struct.Digest.html\" title=\"struct xid::gosha256::Digest\">Digest</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"enum\" href=\"xid/driver/enum.DriverValue.html\" title=\"enum xid::driver::DriverValue\">DriverValue</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"enum\" href=\"xid/error/enum.Error.html\" title=\"enum xid::error::Error\">Error</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"xid/b/struct.ID.html\" title=\"struct xid::b::ID\">ID</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"xid/struct.ID.html\" title=\"struct xid::ID\">ID</a>",0],["impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.98.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"enum\" href=\"xid/driver/enum.ScanValue.html\" title=\"enum xid::driver::ScanValue\">ScanValue</a>&lt;'a&gt;",0]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":59,"fragment_lengths":[1521]}

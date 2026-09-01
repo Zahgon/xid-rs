@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["getenv","getpid","hostname","look_path","read_file"]};

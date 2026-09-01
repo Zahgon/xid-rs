@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["read_platform_machine_id"]};

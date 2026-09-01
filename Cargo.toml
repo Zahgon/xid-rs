@@ -1,0 +1,25 @@
+[package]
+name = "xid"
+version = "1.6.0"
+edition = "2021"
+rust-version = "1.70"
+description = "Globally unique id generator — a 1:1 Rust port of github.com/rs/xid"
+license = "MIT"
+repository = "https://github.com/rs/xid"
+keywords = ["xid", "uuid", "guid", "id", "objectid"]
+categories = ["data-structures", "encoding"]
+
+[lib]
+name = "xid"
+path = "src/lib.rs"
+
+[[example]]
+name = "bench"
+path = "examples/bench.rs"
+
+[[example]]
+name = "parity_oracle"
+path = "examples/parity_oracle.rs"
+
+[profile.test]
+opt-level = 2
